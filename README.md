@@ -13,9 +13,9 @@ table in readme file
 # list
 
 # ordered list
-1.CSE
-2.MEC
-3.ECE
+1. CSE
+2. MEC
+3. ECE
 
 # unordered list
 - CSE
